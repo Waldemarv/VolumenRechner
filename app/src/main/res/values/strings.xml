@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volumen Rechner</string>
+    <string name="attribute_heigt">Heigt</string>
+    <string name="attribute_width">Width</string>
+    <string name="attribute_depth">Depth</string>
+    <string name="attribute_radius">Radius</string>
+</resources>
